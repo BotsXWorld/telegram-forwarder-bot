@@ -11,21 +11,15 @@ export default async function start_handler(ctx: BotContext) {
                             text: "Create a bot",
                             url: "https://t.me/BotFather",
                         },
-                        {
-                            text: "Feature Request",
-                            url: "https://github.com/viperadnan-git/telegram-forwarder-bot/issues",
-                        },
                     ],
                     [
                         {
-                            text: "Source Code",
-                            url: "https://github.com/viperadnan-git/telegram-forwarder-bot",
+                            text: "Updates",
+                            url: "https://t.me/better_botz",
                         },
-                    ],
-                    [
                         {
-                            text: "Support Group",
-                            url: "https://t.me/vipercommunity",
+                            text: "Support",
+                            url: "https://anocy.t.me",
                         },
                     ],
                 ],
